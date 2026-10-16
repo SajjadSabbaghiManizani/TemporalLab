@@ -12,9 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Activities\" />
-    <Folder Include="Workflows\" />
 	  <Compile Remove="tests/**/*.cs" />
   </ItemGroup>
 
